@@ -1,3 +1,4 @@
+
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -12,6 +13,7 @@ plt.show()
 # Source control- specifically aout the souce code css and html 
 #Source control vs Git- 
 #Virsion Control- everything related to your project html, pics, documents
-print("Hello ther
-      !")
+print("Hello there!")
+
+
 
